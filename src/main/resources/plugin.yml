@@ -1,0 +1,5 @@
+name: BambooCounter
+main: fr.azrotho.bamboocounter.BambooCounter
+version: 1.0
+author: Azrotho
+api-version: 1.20
